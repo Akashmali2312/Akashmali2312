@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Akash Sanjay Mali
+- 👀 I’m interested in data analytics, data science, and leveraging technology for impactful insights.
+- 🌱 I’m currently learning advanced Excel, Power BI, MySQL, and enhancing my skills in data analysis.
+- 💞️ I’m looking to collaborate on data-driven projects and opportunities that involve data visualization and analysis.
+- 📫 How to reach me: akashsanjaymali4567@gmail.com or connect with me on LinkedIn: akash-mali2312
+- 😄 Pronouns: Human 😁
+- ⚡ Fun fact: I love exploring new data tools and discovering insights that tell compelling stories!
